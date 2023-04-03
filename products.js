@@ -4,10 +4,10 @@ let spray = 65
 let numsoap = 0
 let numlotion = 0
 let numspray = 0
-let moneysoap
-let moneylotion
-let moneyspray
-let total
+let moneysoap = 0
+let moneylotion = 0
+let moneyspray = 0
+let total = 0
 
 document.getElementById("soap").onclick = function(){
     numsoap++
